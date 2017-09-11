@@ -1,0 +1,23 @@
+{
+  "name": "electron-desktop-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikanta-cse/electron-desktop-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikanta-cse/electron-desktop-app/issues"
+  },
+  "homepage": "https://github.com/manikanta-cse/electron-desktop-app#readme",
+  "devDependencies": {
+    "electron": "^1.7.6"
+  }
+}
